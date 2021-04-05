@@ -5,7 +5,7 @@ import colorama
 from colorama import *
 from discord.ext import commands
 
-token = "ODI1OTQzOTQ5ODEzNDgxNDcy.YGFSPg.Jz4tsq2yjLdWJVyH2bK1NQ8sUwY"
+token = "enter-token-here"
 message = input("enter message here:")
 
 intents = discord.Intents().all()
